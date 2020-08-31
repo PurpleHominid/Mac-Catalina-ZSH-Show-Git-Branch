@@ -1,6 +1,6 @@
 # Mac-Catalina-ZSH-Show-Git-Branch
 
-Update your profile's .zshrc file (by default this is not created so if it doesnt exist create it)
+Update your profile's (hidden) .zshrc file (by default this is not created so if it doesnt exist create it, dont forget the 'dot')
 
 Your file should be:
 
